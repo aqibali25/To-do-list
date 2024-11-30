@@ -26,30 +26,21 @@ A simple To-Do List application built with **React** and **Vite**. The app allow
 ````
 
 2. Navigate to the project folder:
-
    ```bash
    cd to-do-list-app
    ```
-
 3. Install dependencies:
-
    ```bash
    npm install
    ```
-
 4. Run the development server:
-
    ```bash
    npm run dev
    ```
-
 5. Open your browser and go to `http://localhost:5173` to view the app.
 
 ## License
 
 This project is **not open-source**. All rights are reserved.
-
-```
-
 
 ````
