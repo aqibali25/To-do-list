@@ -12,7 +12,7 @@ A simple To-Do List application built with **React** and **Vite**. The app allow
 
 ## Tech Stack
 
-- **Frontend**: React
+- **Frontend**: React, Bootstrap, JavaScript, CSS and HTML
 - **Build Tool**: Vite
 - **Persistence**: localStorage
 
