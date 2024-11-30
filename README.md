@@ -1,26 +1,55 @@
-# To-Do List Project
+# To-Do List App
 
-A simple To-Do List application built using HTML, CSS, JavaScript, React and Bootstrap. The project allows users to add tasks to a list, and remove them when they are completed.
+A simple To-Do List application built with **React** and **Vite**. The app allows users to add, edit, complete, and delete tasks. It uses `localStorage` to persist tasks even after the page is refreshed.
 
 ## Features
 
-- Add new tasks to the list
-- Remove tasks from the list
-- Persist tasks between sessions (using browser's local storage)
+- Add tasks to the list.
+- Edit tasks.
+- Mark tasks as completed.
+- Remove tasks.
+- Data persists across page refresh using `localStorage`.
 
-## Usage
+## Tech Stack
 
-- Add new tasks to the list by typing in the input field and clicking the "Add Task" button.
-- Remove tasks from the list by clicking the "Remove" button next to each task.
+- **Frontend**: React
+- **Build Tool**: Vite
+- **Persistence**: localStorage
 
-## Technologies Used
+## Installation
 
-- React
-- JavaScript
-- Bootstrap
-- CSS
-- HTML
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/to-do-list-app.git
+   ```
 
-## Contact
+````
 
-If you have any questions or suggestions, please contact me at aqibalikalwar1@gmail.com
+2. Navigate to the project folder:
+
+   ```bash
+   cd to-do-list-app
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and go to `http://localhost:5173` to view the app.
+
+## License
+
+This project is **not open-source**. All rights are reserved.
+
+```
+
+
+````
