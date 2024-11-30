@@ -19,11 +19,10 @@ A simple To-Do List application built with **React** and **Vite**. The app allow
 ## Installation
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/your-username/to-do-list-app.git
    ```
-
-````
 
 2. Navigate to the project folder:
    ```bash
@@ -42,5 +41,3 @@ A simple To-Do List application built with **React** and **Vite**. The app allow
 ## License
 
 This project is **not open-source**. All rights are reserved.
-
-````
